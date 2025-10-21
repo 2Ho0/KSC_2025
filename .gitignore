@@ -9,4 +9,4 @@ MUJOCO_LOG.TXT
 *.json
 *.gz
 ;
-./wandb/
+wandb/
