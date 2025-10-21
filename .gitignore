@@ -10,4 +10,5 @@ MUJOCO_LOG.TXT
 *.gz
 wandb/
 *.xml
+*.iml
 ;
