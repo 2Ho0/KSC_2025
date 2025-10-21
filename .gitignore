@@ -8,5 +8,6 @@ MUJOCO_LOG.TXT
 *.pt
 *.json
 *.gz
-;
 wandb/
+*.xml
+;
